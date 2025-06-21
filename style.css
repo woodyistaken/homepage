@@ -178,9 +178,8 @@
     font-size:2rem;
   }
   .bottom .text-container{
-    width:400px;
+    flex:1;
     padding-left:100px;
-    
   }
   .bottom .text-container h1{
     text-align:left;
